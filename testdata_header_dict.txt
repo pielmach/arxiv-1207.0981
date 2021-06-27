@@ -1,0 +1,6 @@
+header_dict.__setitem__('var-a', r'$a = U(0,1)$')
+header_dict.__setitem__('var-b', r'$b = G(0,1)$')
+header_dict.__setitem__('var-c', r'$c = a \times b$')
+header_dict.__setitem__('var-d', r'$d = U(a,1)$')
+header_dict.__setitem__('var-e', r'$e = r \times \cos \phi$')
+header_dict.__setitem__('var-f', r'$f = r \times \sin \phi$')
